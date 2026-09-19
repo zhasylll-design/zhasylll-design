@@ -1,16 +1,18 @@
-## Hi there 👋
+# zhasyl
 
-<!--
-**zhasylll-design/zhasylll-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+student from kazakhstan at IQHSB🇰🇿
 
-Here are some ideas to get you started:
+### Stuff i use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* javascript
+* html / css
+* python
+* git
+* arch
+
+### Currently learning
+
+javascript & web development
+
+## Reach me
+zhasylll@gmail.com
