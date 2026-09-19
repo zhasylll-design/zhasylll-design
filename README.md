@@ -1,12 +1,13 @@
 # zhasyl
 
-student from kazakhstan at IQHSB🇰🇿
+student from kazakhstan at IQHSB🇰🇿       
 
 ### Stuff i use
 
 * javascript
 * html / css
 * arch
+* the odin project
 
 ### Currently learning
 
