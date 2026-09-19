@@ -6,8 +6,6 @@ student from kazakhstan at IQHSB🇰🇿
 
 * javascript
 * html / css
-* python
-* git
 * arch
 
 ### Currently learning
